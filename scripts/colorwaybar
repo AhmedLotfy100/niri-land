@@ -14,4 +14,4 @@ else
 fi
 
 # Write color to css
-echo "@define-color main $COLOR;" > "$WAYBAR_CSS"
+echo "@define-color primary $COLOR;" > "$WAYBAR_CSS"
