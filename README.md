@@ -1,4 +1,4 @@
-# ✨ Niriland
+# ✨ Niri Land
 
 ![Showcase](./assets/bgselector.png)
 
