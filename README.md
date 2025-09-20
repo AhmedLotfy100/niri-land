@@ -1,6 +1,6 @@
 # Niri Nuggets
 
-![Showcase](./assets/collage.png)
+![Showcase](./assets/bgselector.png)
 ## Dependencies
 
 | Name        | Used For                                    | Link                                                      |
