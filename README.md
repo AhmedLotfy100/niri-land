@@ -1,4 +1,4 @@
-# ✨ Niri Nuggets
+# ✨ Niriland
 
 ![Showcase](./assets/bgselector.png)
 
