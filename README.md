@@ -1,27 +1,27 @@
-# Neat Niri
+# Niri Nuggets
 
 ![Overview](./demo-screenshot-overview.png)
 ![Powermenu](./demo-screenshot-powermenu.png)
 
 ## Dependencies
 
-| Name        | Purpose                                    | Link                                                      |
+| Name        | Used For                                    | Link                                                      |
 | ----------- | ------------------------------------------ | --------------------------------------------------------- |
-| niri        | Window manager                             | [niri](https://github.com/YaLTeR/niri)                    |
-| mako        | Notifications, volume flyout               | [mako](https://github.com/emersion/mako)                  |
-| waybar      | Overview bar                               | [waybar](https://github.com/Alexays/Waybar)               |
-| swww        | Wallpaper daemon                           | [swww](https://github.com/Horus645/swww)                  |
-| rofi        | Powermenu, background selector, app drawer | [rofi](https://github.com/davatorium/rofi)                |
-| ImageMagick | Background selector                        | [ImageMagick](https://github.com/ImageMagick/ImageMagick) |
+| `niri`        | Window manager                             | [niri](https://github.com/YaLTeR/niri)                    |
+| `mako`        | Notifications, volume flyout               | [mako](https://github.com/emersion/mako)                  |
+| `waybar`      | Overview bar                               | [waybar](https://github.com/Alexays/Waybar)               |
+| `swww`        | Wallpaper daemon                           | [swww](https://github.com/Horus645/swww)                  |
+| `rofi`        | Powermenu, background selector, app drawer | [rofi](https://github.com/davatorium/rofi)                |
+| `ImageMagick` | Background selector                        | [ImageMagick](https://github.com/ImageMagick/ImageMagick) |
 
 ### UI & Icon Themes
 
-| Name                     | Purpose                  | Link                                                                                                 |
+| Name                     | Used For                  | Link                                                                                                 |
 | ------------------------ | ------------------------ | ---------------------------------------------------------------------------------------------------- |
-| Bibata Classic           | Cursor theme             | [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)                                             |
-| JetBrains Mono Nerd Font | UI font                  | [JetBrainsMono-NF](https://github.com/ryanoasis/nerd-fonts)                                          |
-| Material Symbols Rounded | Background selector font | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
-| Papirus                  | App drawer icons         | [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)                              |
+| `Bibata Classic`           | Cursor theme             | [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)                                             |
+| `JetBrains Mono Nerd Font` | UI font                  | [JetBrainsMono-NF](https://github.com/ryanoasis/nerd-fonts)                                          |
+| `Material Symbols Rounded` | Background selector font | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
+| `Papirus`                  | App drawer icons         | [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)                              |
 
 ## Installation & Setup
 

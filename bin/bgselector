@@ -3,6 +3,7 @@
 wall_dir="$HOME/Pictures/wallpapers"
 cache_dir="$HOME/.cache/thumbnails/bgselector"
 
+mkdir -p "$wall_dir"
 mkdir -p "$cache_dir"
 
 # Generate thumbnails
@@ -15,7 +16,7 @@ find "$wall_dir" -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' 
 done
 
 # List wallpapers with icons for rofi
-wall_selection=$(ls "$wall_dir" -t | while read -r A; do echo -en "$A\x00icon\x1f$cache_dir/$A\n"; done | rofi -dmenu -config "$HOME/.config/rofi/bgselector.rasi")
+wall_selection=$(ls "$wall_dir" | while read -r A; do echo -en "$A\x00icon\x1f$cache_dir/$A\n"; done | rofi -dmenu -config "$HOME/.config/rofi/bgselector.rasi")
 
 # Set wallpaper and update waybar color
 if [ -n "$wall_selection" ]; then
