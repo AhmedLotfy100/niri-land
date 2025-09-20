@@ -4,8 +4,8 @@
 
 ## Dependencies
 
-| Name        | Used For                                    | Link                                                      |
-| ----------- | ------------------------------------------ | --------------------------------------------------------- |
+| Name          | Used For                                   | Link                                                      |
+| ------------- | ------------------------------------------ | --------------------------------------------------------- |
 | `niri`        | Window manager                             | [niri](https://github.com/YaLTeR/niri)                    |
 | `mako`        | Notifications, volume flyout               | [mako](https://github.com/emersion/mako)                  |
 | `waybar`      | Overview bar                               | [waybar](https://github.com/Alexays/Waybar)               |
@@ -15,8 +15,8 @@
 
 ### UI & Icon Themes
 
-| Name                     | Used For                  | Link                                                                                                 |
-| ------------------------ | ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| Name                       | Used For                 | Link                                                                                                 |
+| -------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------- |
 | `Bibata Classic`           | Cursor theme             | [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)                                             |
 | `JetBrains Mono Nerd Font` | UI font                  | [JetBrainsMono-NF](https://github.com/ryanoasis/nerd-fonts)                                          |
 | `Material Symbols Rounded` | Background selector font | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
@@ -45,6 +45,14 @@
    spawn-at-startup "swww-daemon"
    spawn-at-startup "overviewlistener"
    ```
+
+## Keybinds
+
+| Action              | Shortcut  |
+| ------------------- | --------- |
+| Background selector | `Mod + B` |
+| App drawer          | `Mod + D` |
+| Power menu          | `Mod + P` |
 
 ## Optional: GTK Theme, Font & Icon Setup
 
