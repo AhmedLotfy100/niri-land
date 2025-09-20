@@ -2,6 +2,16 @@
 
 ![Showcase](./assets/bgselector.png)
 
+## Features
+- [x] Status bar only visible in overview
+- [x] Gapless windows  
+- [x] Waybar color adapts to wallpaper 
+- [x] Wallpaper selector  
+- [x] App drawer  
+- [x] Power menu  
+- [x] Volume flyout with mute indicator  
+- [ ] Blur
+ 
 ## Dependencies
 
 | Name          | Used For                                   | Link                                                      |
@@ -35,32 +45,28 @@
    systemctl --user add-wants niri.service waybar.service
    systemctl --user add-wants niri.service swww.service
    systemctl --user add-wants niri.service overviewlistener.service
-   ```
 
-   Alternatively, add these lines to `~/.config/niri/config.kdl`:
+Alternatively, add these lines to ~/.config/niri/config.kdl:
 
-   ```kdl
-   spawn-at-startup "waybar"
-   spawn-at-startup "mako"
-   spawn-at-startup "swww-daemon"
-   spawn-at-startup "overviewlistener"
-   ```
+spawn-at-startup "waybar"
+spawn-at-startup "mako"
+spawn-at-startup "swww-daemon"
+spawn-at-startup "overviewlistener"
 
-## Keybinds
+Keybinds
 
-| Action              | Shortcut  |
-| ------------------- | --------- |
-| Background selector | `Mod + B` |
-| App drawer          | `Mod + D` |
-| Power menu          | `Mod + P` |
+Action	Shortcut
 
-## Optional: GTK Theme, Font & Icon Setup
+Background selector	Mod + B
+App drawer	Mod + D
+Power menu	Mod + P
+
+
+Optional: GTK Theme, Font & Icon Setup
 
 Enable dark mode and unify GTK apps (and some others like Firefox):
 
-```bash
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
 gsettings set org.gnome.desktop.interface font-name 'JetBrains Mono Nerd Font 11'
 gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
-```
