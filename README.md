@@ -1,8 +1,6 @@
 # ✨ Niri Land
 
 ![Background Selector](./assets/bgselector.png)
-![App Drawer](./assets/appdrawer.png)
-![Overview](./assets/overview.png)
 
 ## Features
 - [x] Status bar only visible in overview
@@ -13,6 +11,11 @@
 - [x] Power menu  
 - [x] Volume flyout with mute indicator  
 - [ ] Blur
+
+## Screenshots
+
+![App Drawer](./assets/appdrawer.png)
+![Overview](./assets/overview.png)
 
 ## Dependencies
 
