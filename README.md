@@ -1,9 +1,4 @@
-
----
-
-# dots
-
-<!-- Screenshots -->
+# Neat Niri
 
 ![Overview](./demo-screenshot-overview.png)
 ![Powermenu](./demo-screenshot-powermenu.png)
@@ -33,29 +28,32 @@
 1. **Install dependencies** for your distribution.
 2. **Configs**: Copy `.config` files to `~/.config`.
 3. **Scripts**: Copy scripts from `bin` to `~/.local/bin`.
-4. **Autostart**: Link services with `niri-service` or a display manager:
+4. **Wallpapers**: Copy images from `wallpapers/` into `~/Pictures/wallpapers`.
+5. **Autostart**: Link services with `niri` (preferred). This requires starting niri with `niri-session` or a display manager:
 
-   ```
+   ```bash
    systemctl --user add-wants niri.service mako.service
    systemctl --user add-wants niri.service waybar.service
    systemctl --user add-wants niri.service swww.service
    systemctl --user add-wants niri.service overviewlistener.service
    ```
 
-   Alternatively, start services with `spawn-at-startup` in your niri config.
-   [More info](https://yalter.github.io/niri/Configuration%3A-Miscellaneous.html#spawn-at-startup)
+   Alternatively, add these lines to `~/.config/niri/config.kdl`:
+
+   ```kdl
+   spawn-at-startup "waybar"
+   spawn-at-startup "mako"
+   spawn-at-startup "swww-daemon"
+   spawn-at-startup "overviewlistener"
+   ```
 
 ## Optional: GTK Theme, Font & Icon Setup
 
 Enable dark mode and unify GTK apps (and some others like Firefox):
 
-```
+```bash
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
 gsettings set org.gnome.desktop.interface font-name 'JetBrains Mono Nerd Font 11'
 gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
 ```
-
-> These settings primarily affect GTK apps, though some other apps may be influenced depending on your environment.
-
----
