@@ -1,4 +1,4 @@
-<h1 align="center">🔮 Niri Nuggets 🔮</h1>
+<h1 align="center">✨ Niri Nuggets ✨</h1>
 
 <p align="center">
    <a href="#-features">Features</a> • 
