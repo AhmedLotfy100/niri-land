@@ -1,5 +1,5 @@
 # ✨ Niri Land
-[Features](#-features) • [Gallery](#-gallery) • [Dependencies](#-dependencies) • [UI & Icon Themes](#ui--icon-themes) • [Installation](#-installation--setup) • [Keybinds](#%EF%B8%8F-keybinds) • [GTK Setup](#-optional-gtk-theme-font--icon-setup)
+[Features](#-features) • [Gallery](#-gallery) • [Dependencies](#-dependencies) • [UI & Icon Themes](#-ui--icon-themes) • [Installation](#-installation--setup) • [Keybinds](#%EF%B8%8F-keybinds) • [GTK Setup](#-optional-gtk-theme-font--icon-setup)
 
    
 ## 🛠 Features 
