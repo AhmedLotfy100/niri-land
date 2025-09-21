@@ -35,7 +35,7 @@
 | `waybar`      | Overview bar                               | [waybar](https://github.com/Alexays/Waybar)               |
 | `swww`        | Wallpaper daemon                           | [swww](https://github.com/Horus645/swww)                  |
 | `rofi`        | Powermenu, background selector, app drawer | [rofi](https://github.com/davatorium/rofi)                |
-| `ImageMagick` | Background selector                        | [ImageMagick](https://github.com/ImageMagick/ImageMagick) |
+| `ImageMagick` | Background selector, status bar coloring   | [ImageMagick](https://github.com/ImageMagick/ImageMagick) |
 
 ## 🎨 UI & Icon Themes
 
