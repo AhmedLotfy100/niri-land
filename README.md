@@ -14,8 +14,8 @@
 
 ## Screenshots
 
-![App Drawer](./assets/appdrawer.png)
 ![Overview](./assets/overview.png)
+![App Drawer](./assets/appdrawer.png)
 ![Power Menu](./assets/powermenu.png)
 
 ## Dependencies
