@@ -20,10 +20,11 @@
 - Status bar dynamically colored to wallpaper  
   
 ## 🖼 Gallery
-![Background Selector](./assets/bgselector.png)
-![Overview](./assets/overview.png)
-![App Drawer](./assets/appdrawer.png)
-![Power Menu](./assets/powermenu.png)
+## Gallery
+
+| ![Background Selector](./assets/bgselector.png) | ![Overview](./assets/overview.png) |
+|-------------------------------------------------|-----------------------------------|
+| ![App Drawer](./assets/appdrawer.png)          | ![Power Menu](./assets/powermenu.png) |
 
 ## 📦 Dependencies
 
