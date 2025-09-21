@@ -11,6 +11,7 @@
 </p>
   
 ## ✨ Features 
+
 - Gapless, borderless windows  
 - Status bar hidden until overview  
 - App drawer  
@@ -20,7 +21,6 @@
 - Status bar dynamically colored to wallpaper  
   
 ## 🖼 Gallery
-## Gallery
 
 | ![Background Selector](./assets/bgselector.png) | ![Overview](./assets/overview.png) |
 |-------------------------------------------------|-----------------------------------|
