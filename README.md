@@ -1,24 +1,23 @@
 # ✨ Niri Land
+[Features](#features) • [Gallery](#-gallery) • [Dependencies](#-dependencies) • [UI & Icon Themes](#-ui--icon-themes) • [Installation](#-installation--setup) • [Keybinds](#-keybinds) • [GTK Setup](#-optional-gtk-theme-font--icon-setup)
 
-![Collage](./assets/collage.png)
-
-## Features
-- [x] Status bar only visible in overview
-- [x] Gapless windows  
-- [x] Waybar color adapts to wallpaper 
-- [x] Wallpaper selector  
-- [x] App drawer  
-- [x] Power menu  
-- [x] Volume flyout with mute indicator  
-- [ ] Blur
-
-## Screenshots
+   
+## 🛠 Features 
+- Gapless, borderless windows  
+- Status bar hidden until overview  
+- App drawer  
+- Power menu  
+- Volume flyout with mute indicator  
+- Wallpaper selector  
+- Status bar dynamically colored to wallpaper  
+  
+## 🖼 Gallery
 ![Background Selector](./assets/bgselector.png)
 ![Overview](./assets/overview.png)
 ![App Drawer](./assets/appdrawer.png)
 ![Power Menu](./assets/powermenu.png)
 
-## Dependencies
+## 📦 Dependencies
 
 | Name          | Used For                                   | Link                                                      |
 | ------------- | ------------------------------------------ | --------------------------------------------------------- |
@@ -38,7 +37,7 @@
 | `Material Symbols Rounded` | Background selector font | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
 | `Papirus`                  | App drawer icons         | [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)                              |
 
-## Installation & Setup
+## ⚡ Installation & Setup
 
 1. **Install dependencies** for your distribution.
 2. **Configs**: Copy `.config` files to `~/.config`.
@@ -62,7 +61,7 @@
    spawn-at-startup "overviewlistener"
    ```
 
-## Keybinds
+## ⌨️ Keybinds
 
 | Action              | Shortcut  |
 | ------------------- | --------- |
@@ -70,7 +69,7 @@
 | App drawer          | `Mod + D` |
 | Power menu          | `Mod + P` |
 
-## Optional: GTK Theme, Font & Icon Setup
+## 🎨 Optional: GTK Theme, Font & Icon Setup
 
 Enable dark mode and unify GTK apps (and some others like Firefox):
 
