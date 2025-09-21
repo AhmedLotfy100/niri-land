@@ -16,7 +16,7 @@
 
 ![App Drawer](./assets/appdrawer.png)
 ![Overview](./assets/overview.png)
-![Power Menu](./assets/powermenu.png)
+![Power Menu](./assets/powermenu2.png)
 
 ## Dependencies
 
