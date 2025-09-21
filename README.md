@@ -96,5 +96,5 @@ gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
 ## 🚀 Roadmap
 - [ ] Add confirmation boxes to power menu
 - [ ] Create keybind cheatsheet
-- [ ] Improve window animations
-- [ ] Add blur effect to backgrounds
+- [ ] Improve window and menu animations
+- [ ] Add blur effects to backgrounds
