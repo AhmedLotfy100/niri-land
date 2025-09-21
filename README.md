@@ -1,8 +1,17 @@
-# ✨ Niri Land
-[Features](#-features) • [Gallery](#-gallery) • [Dependencies](#-dependencies) • [UI & Icon Themes](#-ui--icon-themes) • [Installation](#-installation--setup) • [Keybinds](#%EF%B8%8F-keybinds) • [GTK Setup](#-optional-gtk-theme-font--icon-setup)
+<h1 align="center">🏰 Niri Land 🏰</h1>
+<p align="center">
+   <a href="#-features">Features</a> • 
+   <a href="#-gallery">Gallery</a> • 
+   <a href="#-dependencies">Dependencies</a> • 
+   <a href="#-ui--icon-themes">UI & Icon Themes</a> • 
+   <a href="#-installation--setup">Installation</a> • 
+   <a href="#%EF%B8%8F-keybinds">Keybinds</a> • 
+   <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a>
+</p>
+
 
    
-## 🛠 Features 
+## ✨ Features 
 - Gapless, borderless windows  
 - Status bar hidden until overview  
 - App drawer  
@@ -37,7 +46,7 @@
 | `Material Symbols Rounded` | Background selector font | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
 | `Papirus`                  | App drawer icons         | [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)                              |
 
-## ⚡ Installation & Setup
+## 🛠️ Installation & Setup
 
 1. **Install dependencies** for your distribution.
 2. **Configs**: Copy `.config` files to `~/.config`.
