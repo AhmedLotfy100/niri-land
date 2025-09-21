@@ -28,7 +28,7 @@
 | `rofi`        | Powermenu, background selector, app drawer | [rofi](https://github.com/davatorium/rofi)                |
 | `ImageMagick` | Background selector                        | [ImageMagick](https://github.com/ImageMagick/ImageMagick) |
 
-### UI & Icon Themes
+## 🎨 UI & Icon Themes
 
 | Name                       | Used For                 | Link                                                                                                 |
 | -------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@
 | App drawer          | `Mod + D` |
 | Power menu          | `Mod + P` |
 
-## 🎨 Optional: GTK Theme, Font & Icon Setup
+## 🎭 Optional: GTK Theme, Font & Icon Setup
 
 Enable dark mode and unify GTK apps (and some others like Firefox):
 
