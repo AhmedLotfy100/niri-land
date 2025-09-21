@@ -1,4 +1,5 @@
 <h1 align="center">🏰 Niri Land 🏰</h1>
+
 <p align="center">
    <a href="#-features">Features</a> • 
    <a href="#-gallery">Gallery</a> • 
@@ -8,9 +9,7 @@
    <a href="#%EF%B8%8F-keybinds">Keybinds</a> • 
    <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a>
 </p>
-
-
-   
+  
 ## ✨ Features 
 - Gapless, borderless windows  
 - Status bar hidden until overview  
