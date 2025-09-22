@@ -33,14 +33,14 @@
 
 ## 📦 Dependencies
 
-| Name          | Used For                                   | Link                                                      |
-| ------------- | ------------------------------------------ | --------------------------------------------------------- |
-| `niri`        | Window manager                             | [niri](https://github.com/YaLTeR/niri)                    |
-| `mako`        | Notifications, volume flyout               | [mako](https://github.com/emersion/mako)                  |
-| `waybar`      | Overview bar                               | [waybar](https://github.com/Alexays/Waybar)               |
-| `swww`        | Wallpaper daemon                           | [swww](https://github.com/Horus645/swww)                  |
-| `rofi`        | Power menu, background selector, app drawer| [rofi](https://github.com/davatorium/rofi)                |
-| `ImageMagick` | Background selector, status bar coloring   | [ImageMagick](https://github.com/ImageMagick/ImageMagick) |
+| Name          | Used For                                    | Link                                                      |
+| ------------- | ------------------------------------------- | --------------------------------------------------------- |
+| `niri`        | Window manager                              | [niri](https://github.com/YaLTeR/niri)                    |
+| `mako`        | Notifications, volume flyout                | [mako](https://github.com/emersion/mako)                  |
+| `waybar`      | Overview bar                                | [waybar](https://github.com/Alexays/Waybar)               |
+| `swww`        | Wallpaper daemon                            | [swww](https://github.com/Horus645/swww)                  |
+| `rofi`        | Power menu, background selector, app drawer | [rofi](https://github.com/davatorium/rofi)                |
+| `ImageMagick` | Background selector, status bar coloring    | [ImageMagick](https://github.com/ImageMagick/ImageMagick) |
 
 ## 🎨 UI & Icon Themes
 
@@ -48,7 +48,7 @@
 | -------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------- |
 | `Bibata Classic`           | Cursor theme             | [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)                                             |
 | `JetBrains Mono Nerd Font` | UI font                  | [JetBrainsMono-NF](https://github.com/ryanoasis/nerd-fonts)                                          |
-| `Material Symbols Rounded` | Power menuy font         | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
+| `Material Symbols Rounded` | Power menu font          | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
 | `Papirus`                  | App drawer icons         | [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)                              |
 
 ## 🛠️ Installation & Setup
