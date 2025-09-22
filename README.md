@@ -9,7 +9,9 @@
    <a href="#%EF%B8%8F-keybinds">Keybinds</a> • 
    <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a>
 </p>
-  
+
+![Background Selector](./assets/bgselector.png)
+
 ## ✨ Features 
 
 - Gapless, borderless windows  
