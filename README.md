@@ -10,8 +10,6 @@
    <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a>
 </p>
 
-![Background Selector](./assets/bgselector.png)
-
 ## ✨ Features 
 
 - Gapless, borderless windows  
