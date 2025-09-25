@@ -8,7 +8,7 @@
    <a href="#-features">Features</a> • 
    <a href="#-gallery">Gallery</a> • 
    <a href="#-dependencies">Dependencies</a> • 
-   <a href="#-ui--icon-themes">UI & Icon Themes</a> • 
+   <a href="#-ui--icon-themes">UI & Icons</a> • 
    <a href="#%EF%B8%8F-installation--setup">Installation</a> • 
    <a href="#%EF%B8%8F-keybinds">Keybinds</a> • 
    <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a> •
