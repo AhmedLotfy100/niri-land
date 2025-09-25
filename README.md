@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="./assets/sparkles.webp" alt="Sparkles" width="40"/>
+  <img src="./assets/sparkles.webp" alt="Sparkles" width="40" height="40"/>
   Niri Land
-  <img src="./assets/sparkles.webp" alt="Sparkles" width="40"/>
+  <img src="./assets/sparkles.webp" alt="Sparkles" width="40" height="40"/>
 </h1>
 
 <p align="center">
