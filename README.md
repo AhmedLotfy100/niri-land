@@ -12,7 +12,7 @@
    <a href="#%EF%B8%8F-installation--setup">Installation</a> • 
    <a href="#%EF%B8%8F-keybinds">Keybinds</a> • 
    <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a> •
-  <a href="#-roadnao">Roadmap</a>
+  <a href="#-roadmap">Roadmap</a>
 </p>
 
 ## 🚀 Features 
