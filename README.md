@@ -1,9 +1,7 @@
-<h1 align="center">🏰 Niri Land 🏰</h1>
-
 <h1 align="center">
-  <img src="./assets/crystal-ball_1f52e.webp" alt="Left Castle" width="40"/>
+  <img src="https://em-content.zobj.net/source/telegram/386/sparkles_2728.webp" alt="Left Castle" width="36"/>
   Niri Land
-  <img src="./assets/crystal-ball_1f52e.webp" alt="Right Castle" width="40"/>
+  <img src="https://em-content.zobj.net/source/telegram/386/sparkles_2728.webp" alt="Right Castle" width="36"/>
 </h1>
 
 
@@ -17,7 +15,7 @@
    <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a>
 </p>
 
-## ✨ Features 
+## 🚀 Features 
 
 - Gapless, borderless windows  
 - Status bar hidden until overview  
@@ -100,7 +98,7 @@ gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
 gsettings set org.gnome.desktop.interface font-name 'JetBrains Mono Nerd Font 11'
 gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
 ```
-## 🚀 Roadmap
+## 📋 Roadmap
 - [ ] Add confirmation boxes to power menu
 - [ ] Create keybinds cheatsheet
 - [ ] Create clipboard manager
