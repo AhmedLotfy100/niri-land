@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/telegram/386/sparkles_2728.webp" alt="Left Castle" width="40"/>
+  <img src="https://em-content.zobj.net/source/telegram/386/sparkles_2728.webp" alt="Left Castle" width="36"/>
   Niri Land
-  <img src="https://em-content.zobj.net/source/telegram/386/sparkles_2728.webp" alt="Right Castle" width="40"/>
+  <img src="https://em-content.zobj.net/source/telegram/386/sparkles_2728.webp" alt="Right Castle" width="36"/>
 </h1>
 
 
