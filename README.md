@@ -1,5 +1,12 @@
 <h1 align="center">🏰 Niri Land 🏰</h1>
 
+<h1 align="center">
+  <img src="./assets/crystal-ball_1f52e.webp" alt="Left Castle" width="40"/>
+  Niri Land
+  <img src="./assets/crystal-ball_1f52e.webp" alt="Right Castle" width="40"/>
+</h1>
+
+
 <p align="center">
    <a href="#-features">Features</a> • 
    <a href="#-gallery">Gallery</a> • 
