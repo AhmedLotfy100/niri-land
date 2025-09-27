@@ -7,7 +7,7 @@ suspend="$(printf '\uef44')"
 logout="$(printf '\ue9ba')"
 
 # Give options to rofi and save choice
-chosen="$(echo -e "$shutdown\n$reboot\n$suspend\n$logout" | rofi -dmenu -config ~/.config/rofi/powermenu.rasi )"
+chosen="$(echo -e "$shutdown\n$reboot\n$suspend\n$logout" | rofi -dmenu -config "$HOME/.config/rofi/powermenu.rasi" )"
 
 case "$chosen" in
   "$shutdown")
