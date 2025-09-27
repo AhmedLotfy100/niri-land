@@ -23,7 +23,7 @@
 - Power menu  
 - Volume flyout with mute indicator  
 - Wallpaper selector  
-- Status bar dynamically colored to wallpaper  
+- Status bar colored to wallpaper  
   
 ## 🖼 Gallery
 
