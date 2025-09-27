@@ -102,5 +102,8 @@ gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
 - [ ] Add confirmation boxes to power menu
 - [ ] Create keybinds cheatsheet
 - [ ] Create clipboard manager
+- [ ] Improve status bar coloring logic
+- [ ] Improve notification styling
 - [ ] Improve window and menu animations
+- [ ] Add idle management daemon
 - [ ] Add blur effects to backgrounds
