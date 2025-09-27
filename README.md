@@ -58,6 +58,10 @@
 
 ## 🛠️ Installation & Setup
 
+> [!WARNING]  
+> Tested only at `1080p` with `scale=1`. Other configurations may require adjusting **Rofi font size or padding**.
+
+
 1. **Install dependencies** for your distribution.
 2. **Configs**: Copy `.config` files to `~/.config`.
 3. **Scripts**: Copy scripts from `bin` to `~/.local/bin`.
