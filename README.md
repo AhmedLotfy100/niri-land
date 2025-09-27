@@ -31,13 +31,13 @@
 |--------------------|
 | ![Background Selector](./assets/bgselector.png) |
 
-| Overview |
-|---------|
-| ![Overview](./assets/overview.png) |
-
 | App Drawer |
 |------------|
 | ![App Drawer](./assets/appdrawer.png) |
+
+| Overview |
+|---------|
+| ![Overview](./assets/overview.png) |
 
 | Power Menu |
 |-----------|
