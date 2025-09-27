@@ -59,7 +59,7 @@
 ## 🛠️ Installation & Setup
 
 > [!WARNING]  
-> Tested only at `1080p` with `scale=1`. Other configurations may require adjusting **Rofi font size or padding**.
+> Tested only at `1080p` with `scale=1`. Other configurations may require adjusting **Rofi font size or padding** in `~/.config/rofi/themes/*`.
 
 
 1. **Install dependencies** for your distribution.
