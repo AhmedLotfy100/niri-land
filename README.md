@@ -27,13 +27,22 @@
   
 ## 🖼 Gallery
 
-| Background Selector | Overview |
-|--------------------|---------|
-| ![Background Selector](./assets/bgselector.png) | ![Overview](./assets/overview.png) |
+| Background Selector |
+|--------------------|
+| ![Background Selector](./assets/bgselector.png) |
 
-| App Drawer | Power Menu |
-|--------------------|---------|
-| ![App Drawer](./assets/appdrawer.png) | ![Power Menu](./assets/powermenu.png) |
+| Overview |
+|---------|
+| ![Overview](./assets/overview.png) |
+
+| App Drawer |
+|------------|
+| ![App Drawer](./assets/appdrawer.png) |
+
+| Power Menu |
+|-----------|
+| ![Power Menu](./assets/powermenu.png) |
+
 
 
 ## 📦 Dependencies
