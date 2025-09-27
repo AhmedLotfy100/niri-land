@@ -31,7 +31,7 @@
 |--------------------|
 | ![Background Selector](./assets/bgselector.png) |
 
-| Overview & Volume Flyout |
+| Overview |
 |---------|
 | ![Overview](./assets/overview.png) |
 
